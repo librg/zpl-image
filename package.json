@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/zpl-c/zpl-image/issues"
   },
-  "homepage": "https://github.com/zpl-c/zpl-image#readme"
+  "homepage": "https://github.com/zpl-c/zpl-image#readme",
+  "dependencies": {
+    "zpl.c": "^2.0.2"
+  }
 }
