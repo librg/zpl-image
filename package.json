@@ -1,0 +1,31 @@
+{
+  "name": "zpl_image.c",
+  "version": "1.0.2",
+  "description": "Image manipulation library & GIF animation. loader.",
+  "main": "include/zpl_image.h",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zpl-c/zpl-image.git"
+  },
+  "keywords": [
+    "c",
+    "c++",
+    "cpp",
+    "zpl",
+    "native",
+    "library",
+    "image"
+  ],
+  "author": "Dominik Madarasz <zaklaus@outlook.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/zpl-c/zpl-image/issues"
+  },
+  "homepage": "https://github.com/zpl-c/zpl-image#readme"
+}
