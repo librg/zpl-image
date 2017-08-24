@@ -1,6 +1,6 @@
 {
   "name": "zpl_image.c",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Image manipulation library & GIF animation loader.",
   "main": "include/zpl_image.h",
   "directories": {
@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/zpl-c/zpl-image#readme",
   "dependencies": {
-    "zpl.c": "^2.0.2"
+    "zpl.c": "^3.0.0"
   }
 }
